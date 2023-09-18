@@ -191,6 +191,7 @@ h4{
 .box:hover{
     transform: scale(1.2);
     z-index: 1;
+    transition: 2s;
 }
 
 .breakthree{
